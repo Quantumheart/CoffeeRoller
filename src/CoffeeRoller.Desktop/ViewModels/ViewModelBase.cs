@@ -1,6 +1,6 @@
 ﻿using ReactiveUI;
 
-namespace CoffeeRoller.App.ViewModels;
+namespace CoffeeRoller.Desktop.ViewModels;
 
 public class ViewModelBase : ReactiveObject
 {

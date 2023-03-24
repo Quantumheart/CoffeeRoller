@@ -1,4 +1,4 @@
-﻿namespace CoffeeRoller.App.ViewModels;
+﻿namespace CoffeeRoller.Desktop.ViewModels;
 
 public class MainWindowViewModel : ViewModelBase
 {

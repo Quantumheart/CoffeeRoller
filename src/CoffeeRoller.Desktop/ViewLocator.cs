@@ -1,9 +1,9 @@
 using System;
 using Avalonia.Controls;
 using Avalonia.Controls.Templates;
-using CoffeeRoller.App.ViewModels;
+using CoffeeRoller.Desktop.ViewModels;
 
-namespace CoffeeRoller.App;
+namespace CoffeeRoller.Desktop;
 
 public class ViewLocator : IDataTemplate
 {

@@ -1,8 +1,8 @@
-﻿using Avalonia;
+﻿using System;
+using Avalonia;
 using Avalonia.ReactiveUI;
-using System;
 
-namespace CoffeeRoller.App;
+namespace CoffeeRoller.Desktop;
 
 class Program
 {

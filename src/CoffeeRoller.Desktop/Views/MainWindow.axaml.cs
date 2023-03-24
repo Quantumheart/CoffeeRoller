@@ -1,6 +1,6 @@
 using Avalonia.Controls;
 
-namespace CoffeeRoller.App.Views;
+namespace CoffeeRoller.Desktop.Views;
 
 public partial class MainWindow : Window
 {

@@ -1,10 +1,10 @@
 using Avalonia;
 using Avalonia.Controls.ApplicationLifetimes;
 using Avalonia.Markup.Xaml;
-using CoffeeRoller.App.ViewModels;
-using CoffeeRoller.App.Views;
+using CoffeeRoller.Desktop.ViewModels;
+using CoffeeRoller.Desktop.Views;
 
-namespace CoffeeRoller.App;
+namespace CoffeeRoller.Desktop;
 
 public partial class App : Application
 {
